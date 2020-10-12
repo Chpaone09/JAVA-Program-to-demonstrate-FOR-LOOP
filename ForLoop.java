@@ -8,7 +8,7 @@ Date    : Oct 12, 2020
 ************************************************************
 */
 
-class ForLoop{
+public class ForLoop{
 public static void main(String[] args) {
     int i =0;
     System.out.print("\n\n\t Demonstration of FOR LOOP in JAVA >> ");
